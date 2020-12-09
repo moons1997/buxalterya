@@ -1,0 +1,46 @@
+.total_info{
+    margin-top: 20px;
+}
+.total_info .card .btn-link{
+    color: #000;
+}
+.total_info .card .btn-link:hover{
+    text-decoration: none;
+}
+.total_info .card .card-header:hover{
+    cursor: pointer;
+}
+.total_info .card .badge{
+    font-size: 14px;
+    font-weight: 300;
+}
+.balance{
+    color: white;
+    margin-right: 20px;
+}
+.balance span{
+    font-size: 14px;
+}
+.home-block{
+    padding-top: 50px;
+}
+.home-block .sort h3{
+    margin-bottom: 50px;
+}
+.balance-info{
+    width: 100%;
+    margin-top: 30px;
+}
+.balance-info .cost{
+    width: 50%;
+    font-size: 50px;
+    color: #ff180e;
+}
+.balance-info .income{
+    width: 50%;
+    font-size: 50px;
+    color: #02cd2b;
+}
+
+
+
